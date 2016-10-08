@@ -10,8 +10,6 @@ import java.util.regex.Pattern;
  * Class RelevanceFeedback: Implemented relevance feedback using Rocchio's algorithm with penalized weight
  * Package: adb
  * Advanced Database Systems Project 1
- * Group 3
- * Ziyi Luo (zl2471) & Guihao Liang (gl2520)
  */
 public class RelevanceFeedback {
 	// Rocchio constant
