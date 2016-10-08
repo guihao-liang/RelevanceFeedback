@@ -1,0 +1,1974 @@
+=====================================
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Commissioned in 1632 by the Mughal emperor Shah Jahan to house the remains of his cherished wife, the Taj Mahal stands on the southern bank of the Yamuna ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://www.tajmahal.gov.in/picture_gallery.html
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+ Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.tajlancaster.com/
+ Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+ Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+PRECISION 0.2
+=====================================
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Commissioned in 1632 by the Mughal emperor Shah Jahan to house the remains of his cherished wife, the Taj Mahal stands on the southern bank of the Yamuna ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://www.tajmahal.gov.in/picture_gallery.html
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+ Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.tajlancaster.com/
+ Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+ Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+PRECISION 0.2
+=====================================
+ROUND 2
+QUERY taj mahal allmusic 
+
+Result 1
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+
+Result 2
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604/discography
+ Title: Taj Mahal | Album Discography | AllMusic
+ Summary: Find Taj Mahal discography, albums and singles on AllMusic
+]
+
+
+Result 3
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal_(album)?oldid=cur
+ Title: Taj Mahal (album) - Wikipedia, the free encyclopedia
+ Summary: Allmusic: Entertainment Weekly: A: Taj Mahal is the debut American blues album by Taj Mahal. Track listing "Leaving Trunk" (Sleepy John Estes) – 4:51
+]
+
+
+Result 4
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+ Title: Taj Mahal (musician) - Wikipedia, the free encyclopedia
+ Summary: Henry Saint Clair Fredericks (born May 17, 1942), who uses the stage name Taj Mahal, is an American blues musician. He often incorporates elements of world music into ...
+]
+
+
+Result 5
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Taj_(Taj_Mahal_Album)
+ Title: Taj (album) - Wikipedia, the free encyclopedia
+ Summary: Allmusic: Taj is an album by American blues artist Taj Mahal. Track listing Edit. All tracks composed by Taj Mahal; except where indicated "Everybody is Somebody" ...
+]
+
+
+Result 6
+Relevant: YES
+[
+ URL: http://brudda.com/kilohana/taj.html
+ Title: Taj Mahal and the Hula Blues Band - Kauai
+ Summary: Taj Mahal and the Hula Blues Band - not the place - the Musician, Here is the Official Home page
+]
+
+
+Result 7
+Relevant: YES
+[
+ URL: https://www.discogs.com/Taj-Mahal-The-Real-Thing/release/1620135
+ Title: Taj Mahal - The Real Thing (Vinyl, LP, Album) at Discogs
+ Summary: Find a Taj Mahal - The Real Thing first pressing or reissue. Complete your Taj Mahal collection. Shop Vinyl and CDs.
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: https://allmusicsite.com/music/cinta-di-langit-taj-mahal-episode-107-full-cd.html
+ Title: Cinta Di Langit Taj Mahal Episode 107 Full Cd ...
+ Summary: Download Songs Cinta Di Langit Taj Mahal Episode 107 Full Cd only for review course, Buy Cassette or CD / VCD original from the album Cinta Di
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: https://www.discogs.com/artist/15158-Taj-Mahal
+ Title: Taj Mahal Discography at Discogs
+ Summary: Complete your Taj Mahal record collection. Discover Taj Mahal's full discography. Shop new and used Vinyl and CDs.
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.kilohana.com/taj.html
+ Title: Taj Mahal and the Hula Blues Band - kilohana.com
+ Summary: Taj has 2 GRAMMY awards for Shoutin' in Key and Senor Blues as well as a nomination for Maestro and six other albums. Taj Mahal is about Music.
+]
+
+PRECISION 0.8
+=====================================
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Find out more about the history of The Taj Mahal, including videos, interesting articles, pictures, historical features and more. Get all the facts on HISTORY.com
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://www.tajmahal.gov.in/picture_gallery.html
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+ Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.tajlancaster.com/
+ Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+ Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+PRECISION 0.2
+=====================================
+ROUND 2
+QUERY taj mahal streaming 
+
+Result 1
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://filmistreaming.com/taj-mahal-streaming/
+ Title: Taj Mahal streaming gratuit - filmistreaming.com
+ Summary: Taj Mahal streaming un mausolée de marbre blanc avec l'empereur moghol Shah Jahan en mémoire de son épouse Mumtaz Mahal, Taj Mahal streaming vf gratuit éga.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: https://www.youtube.com/watch?v=A3FCfvpNV7Y
+ Title: Taj Mahal Trio at Washington, DC Oct 1 2016 LIVE - YouTube
+ Summary: Taj Mahal Trio ( Exclusive Live streaming ) at Washington, DC - October 1 2016 Full Concert [HD Videos 2016] You must be logged in to continue streaming.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://wistreaming.com/film/taj-mahal-streaming-vf/
+ Title: Film Taj Mahal streaming Regarder et telecharger gratuit
+ Summary: Regarder Film Taj Mahal complet en HD Streaming Gratuit. Louise a dix-huit ans, lorsque son père doit être de Mumbai pour son travail. Dans l’intervalle ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.imdb.com/title/tt4213764/
+ Title: Taj Mahal (2015) - IMDb
+ Summary: Title: Taj Mahal (2015) 5.6 /10. Want to share IMDb's ... Unlimited Streaming of Movies & TV. Amazon Germany Buy Movies on DVD & Blu-ray. Amazon Italy
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.fullmoviestream.us/taj-mahal/
+ Title: Streaming Taj mahal (Sep 2016) Full Movie online
+ Summary: Stream Film Taj mahal in good quality. Stream full movie Taj mahal Watch and download using your PC and mobile device.
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: YES
+[
+ URL: http://www.imdb.com/name/nm0536737/
+ Title: Taj Mahal - IMDb
+ Summary: Taj Mahal, Soundtrack: Phenomenon. Taj Mahal was born on May 17, 1942 in New York City, New York, USA as Henry Saint Clair Fredericks.
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: https://myspace.com/tajblues
+ Title: Taj Mahal | Listen and Stream Free Music, Albums, New ...
+ Summary: Taj Mahal's profile including the latest music, albums, songs, music videos and more updates.
+]
+
+PRECISION 0.4
+=====================================
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Commissioned in 1632 by the Mughal emperor Shah Jahan to house the remains of his cherished wife, the Taj Mahal stands on the southern bank of the Yamuna ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://www.tajmahal.gov.in/picture_gallery.html
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+ Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.tajlancaster.com/
+ Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+ Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+PRECISION 0.2
+=====================================
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Commissioned in 1632 by the Mughal emperor Shah Jahan to house the remains of his cherished wife, the Taj Mahal stands on the southern bank of the Yamuna ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://www.tajmahal.gov.in/picture_gallery.html
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+ Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.tajlancaster.com/
+ Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+ Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+PRECISION 0.2
+=====================================
+ROUND 2
+QUERY taj mahal streaming 
+
+Result 1
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://filmistreaming.com/taj-mahal-streaming/
+ Title: Taj Mahal streaming gratuit - filmistreaming.com
+ Summary: Taj Mahal streaming un mausolée de marbre blanc avec l'empereur moghol Shah Jahan en mémoire de son épouse Mumtaz Mahal, Taj Mahal streaming vf gratuit éga.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: https://www.youtube.com/watch?v=A3FCfvpNV7Y
+ Title: Taj Mahal Trio at Washington, DC Oct 1 2016 LIVE - YouTube
+ Summary: Taj Mahal Trio ( Exclusive Live streaming ) at Washington, DC - October 1 2016 Full Concert [HD Videos 2016] You must be logged in to continue streaming.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://wistreaming.com/film/taj-mahal-streaming-vf/
+ Title: Film Taj Mahal streaming Regarder et telecharger gratuit
+ Summary: Regarder Film Taj Mahal complet en HD Streaming Gratuit. Louise a dix-huit ans, lorsque son père doit être de Mumbai pour son travail. Dans l’intervalle ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.imdb.com/title/tt4213764/
+ Title: Taj Mahal (2015) - IMDb
+ Summary: Title: Taj Mahal (2015) 5.6 /10. Want to share IMDb's ... Unlimited Streaming of Movies & TV. Amazon Germany Buy Movies on DVD & Blu-ray. Amazon Italy
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.fullmoviestream.us/taj-mahal/
+ Title: Streaming Taj mahal (Sep 2016) Full Movie online
+ Summary: Stream Film Taj mahal in good quality. Stream full movie Taj mahal Watch and download using your PC and mobile device.
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: YES
+[
+ URL: http://www.imdb.com/name/nm0536737/
+ Title: Taj Mahal - IMDb
+ Summary: Taj Mahal, Soundtrack: Phenomenon. Taj Mahal was born on May 17, 1942 in New York City, New York, USA as Henry Saint Clair Fredericks.
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: https://myspace.com/tajblues
+ Title: Taj Mahal | Listen and Stream Free Music, Albums, New ...
+ Summary: Taj Mahal's profile including the latest music, albums, songs, music videos and more updates.
+]
+
+PRECISION 0.4
+=====================================
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Commissioned in 1632 by the Mughal emperor Shah Jahan to house the remains of his cherished wife, the Taj Mahal stands on the southern bank of the Yamuna ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://www.tajmahal.gov.in/picture_gallery.html
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+ Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.tajlancaster.com/
+ Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+ Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+PRECISION 0.2
+=====================================
+ROUND 2
+QUERY taj mahal streaming 
+
+Result 1
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://filmistreaming.com/taj-mahal-streaming/
+ Title: Taj Mahal streaming gratuit - filmistreaming.com
+ Summary: Taj Mahal streaming un mausolée de marbre blanc avec l'empereur moghol Shah Jahan en mémoire de son épouse Mumtaz Mahal, Taj Mahal streaming vf gratuit éga.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: https://www.youtube.com/watch?v=A3FCfvpNV7Y
+ Title: Taj Mahal Trio at Washington, DC Oct 1 2016 LIVE - YouTube
+ Summary: Taj Mahal Trio ( Exclusive Live streaming ) at Washington, DC - October 1 2016 Full Concert [HD Videos 2016] You must be logged in to continue streaming.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://wistreaming.com/film/taj-mahal-streaming-vf/
+ Title: Film Taj Mahal streaming Regarder et telecharger gratuit
+ Summary: Regarder Film Taj Mahal complet en HD Streaming Gratuit. Louise a dix-huit ans, lorsque son père doit être de Mumbai pour son travail. Dans l’intervalle ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.imdb.com/title/tt4213764/
+ Title: Taj Mahal (2015) - IMDb
+ Summary: Title: Taj Mahal (2015) 5.6 /10. Want to share IMDb's ... Unlimited Streaming of Movies & TV. Amazon Germany Buy Movies on DVD & Blu-ray. Amazon Italy
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.fullmoviestream.us/taj-mahal/
+ Title: Streaming Taj mahal (Sep 2016) Full Movie online
+ Summary: Stream Film Taj mahal in good quality. Stream full movie Taj mahal Watch and download using your PC and mobile device.
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: YES
+[
+ URL: http://www.imdb.com/name/nm0536737/
+ Title: Taj Mahal - IMDb
+ Summary: Taj Mahal, Soundtrack: Phenomenon. Taj Mahal was born on May 17, 1942 in New York City, New York, USA as Henry Saint Clair Fredericks.
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: https://myspace.com/tajblues
+ Title: Taj Mahal | Listen and Stream Free Music, Albums, New ...
+ Summary: Taj Mahal's profile including the latest music, albums, songs, music videos and more updates.
+]
+
+PRECISION 0.4
+=====================================
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Commissioned in 1632 by the Mughal emperor Shah Jahan to house the remains of his cherished wife, the Taj Mahal stands on the southern bank of the Yamuna ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://www.tajmahal.gov.in/picture_gallery.html
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+ Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.tajlancaster.com/
+ Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+ Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+PRECISION 0.2
+=====================================
+ROUND 2
+QUERY taj mahal streaming 
+
+Result 1
+Relevant: YES
+[
+ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://filmistreaming.com/taj-mahal-streaming/
+ Title: Taj Mahal streaming gratuit - filmistreaming.com
+ Summary: Taj Mahal streaming un mausolée de marbre blanc avec l'empereur moghol Shah Jahan en mémoire de son épouse Mumtaz Mahal, Taj Mahal streaming vf gratuit éga.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: https://www.youtube.com/watch?v=A3FCfvpNV7Y
+ Title: Taj Mahal Trio at Washington, DC Oct 1 2016 LIVE - YouTube
+ Summary: Taj Mahal Trio ( Exclusive Live streaming ) at Washington, DC - October 1 2016 Full Concert [HD Videos 2016] You must be logged in to continue streaming.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://wistreaming.com/film/taj-mahal-streaming-vf/
+ Title: Film Taj Mahal streaming Regarder et telecharger gratuit
+ Summary: Regarder Film Taj Mahal complet en HD Streaming Gratuit. Louise a dix-huit ans, lorsque son père doit être de Mumbai pour son travail. Dans l’intervalle ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.imdb.com/title/tt4213764/
+ Title: Taj Mahal (2015) - IMDb
+ Summary: Title: Taj Mahal (2015) 5.6 /10. Want to share IMDb's ... Unlimited Streaming of Movies & TV. Amazon Germany Buy Movies on DVD & Blu-ray. Amazon Italy
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.fullmoviestream.us/taj-mahal/
+ Title: Streaming Taj mahal (Sep 2016) Full Movie online
+ Summary: Stream Film Taj mahal in good quality. Stream full movie Taj mahal Watch and download using your PC and mobile device.
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+
+Result 9
+Relevant: YES
+[
+ URL: http://www.imdb.com/name/nm0536737/
+ Title: Taj Mahal - IMDb
+ Summary: Taj Mahal, Soundtrack: Phenomenon. Taj Mahal was born on May 17, 1942 in New York City, New York, USA as Henry Saint Clair Fredericks.
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: https://myspace.com/tajblues
+ Title: Taj Mahal | Listen and Stream Free Music, Albums, New ...
+ Summary: Taj Mahal's profile including the latest music, albums, songs, music videos and more updates.
+]
+
+PRECISION 0.4
+=====================================
+ROUND 1
+QUERY musk
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Musk
+ Title: Musk - Wikipedia, the free encyclopedia
+ Summary: Musk is a class of aromatic substances commonly used as base notes in perfumery. They include glandular secretions from animals such as the musk deer, numerous plants ...
+]
+
+
+Result 2
+Relevant: YES
+[
+ URL: http://www.cnbc.com/elon-musk/
+ Title: Elon Musk - CNBC
+ Summary: Wednesday, 28 Sep 2016 | 12:06 PM ET. Astrophysicist Neil deGrasse Tyson, like Elon Musk, says it is highly likely our reality is one big simulation.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://www.dictionary.com/browse/musk
+ Title: Musk | Define Musk at Dictionary.com
+ Summary: Musk definition, a substance secreted in a glandular sac under the skin of the abdomen of the male musk deer, having a strong odor, and used in perfumery. See more.
+]
+
+
+Result 4
+Relevant: YES
+[
+ URL: http://money.cnn.com/2016/09/30/technology/tesla-elon-musk-discount/index.html
+ Title: Elon Musk to Tesla employees: NEVER discount a car - Sep ...
+ Summary: Telsa CEO Elon Musk chided his salespeople for offering discounts to customers, violating the company's strict 'no negotiation, no discount' policy.
+]
+
+
+Result 5
+Relevant: YES
+[
+ URL: http://www.foxnews.com/science/2016/09/28/elon-musk-unveils-ambitious-mars-colonization-plan.html
+ Title: Elon Musk unveils ambitious Mars colonization plan | Fox News
+ Summary: On Tuesday, SpaceX CEO Elon Musk unveiled plans for a spacecraft and rocket project that intends to put intelligent life on Mars: human life. In a speech ...
+]
+
+
+Result 6
+Relevant: YES
+[
+ URL: http://www.nytimes.com/2016/09/28/science/elon-musk-spacex-mars-exploration.html
+ Title: Elon Musk’s Plan: Get Humans to Mars, and Beyond - The New ...
+ Summary: SpaceX, Elon Musk’s rocket company, released a video simulation of a journey to Mars. His plan is for spacecraft that would take 100 passengers to the ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.merriam-webster.com/dictionary/musk
+ Title: Musk | Definition of Musk by Merriam-Webster
+ Summary: :a strong-smelling material that is used in perfumes and is obtained from a gland of an Asian deer (musk deer) or is prepared artificially
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Elon_Musk
+ Title: Elon Musk - Wikipedia, the free encyclopedia
+ Summary: Elon Reeve Musk (/ ˈ iː l ɒ n ˈ m ʌ s k /; born June 28, 1971) is a South African-born Canadian-American business magnate, investor, engineer and ...
+]
+
+
+Result 9
+Relevant: YES
+[
+ URL: http://www.cbsnews.com/news/spacex-elon-musk-unveils-grandiose-plan-to-colonize-mars/
+ Title: SpaceX CEO Elon Musk unveils grandiose plan to colonize ...
+ Summary: In a long-awaited presentation Tuesday, SpaceX founder Elon Musk unveiled a grandiose, long-range plan for building reusable super boosters and huge spaceships to ...
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://www.nbcnews.com/tech/tech-news/elon-musk-makes-his-case-colonizing-mars-n655641
+ Title: Elon Musk Makes His Case for Colonizing Mars - NBC News
+ Summary: If Elon Musk has his way, a ticket to Mars will one day cost the same as the median U.S. house price — about $200,000. Not cheap, but arguably affordable.
+]
+
+PRECISION 0.7
+=====================================
+ROUND 1
+QUERY brin
+
+Result 1
+Relevant: NO
+[
+ URL: http://www.thefreedictionary.com/Brin
+ Title: Brin - definition of brin by The Free Dictionary
+ Summary: brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+]
+
+
+Result 2
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Early life and education. Brin was born in Moscow in the Soviet Union, to Russian Jewish parents, Yevgenia and Mikhail Brin, both graduates of Moscow State ...
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://brin.ai/
+ Title: BRiN - Your Personal Business Advisor
+ Summary: Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.davidbrin.com/
+ Title: worlds of DAVID BRIN
+ Summary: official website of best-selling science fiction writer and futurist DAVID BRIN
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://bringlass.com/
+ Title: Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+ Summary: Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+ Title: How Your Brain Works | HowStuffWorks
+ Summary: How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+]
+
+
+Result 7
+Relevant: YES
+[
+ URL: http://www.forbes.com/profile/sergey-brin/
+ Title: Sergey Brin - Forbes
+ Summary: Sergey Brin runs Alphabet's secretive X division, a key player in the race towards autonomous vehicles and the builder of self-driving cars. X (formerly called ...
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: http://www.mylifetime.com/shows/bring-it
+ Title: Bring It! Full Episodes, Video & More | Lifetime
+ Summary: Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: https://www.brainpop.com/
+ Title: BrainPOP
+ Summary: BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+]
+
+
+Result 10
+Relevant: NO
+[
+ URL: http://www.webmd.com/brain/picture-of-the-brain
+ Title: Brain (Human Anatomy): Picture, Function, Parts ...
+ Summary: WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+]
+
+PRECISION 0.2
+=====================================
+ROUND 1
+QUERY brin
+
+Result 1
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Early life and education. Brin was born in Moscow in the Soviet Union, to Russian Jewish parents, Yevgenia and Mikhail Brin, both graduates of Moscow State ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://www.thefreedictionary.com/Brin
+ Title: Brin - definition of brin by The Free Dictionary
+ Summary: brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://brin.ai/
+ Title: BRiN - Your Personal Business Advisor
+ Summary: Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://bringlass.com/
+ Title: Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+ Summary: Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+ Title: How Your Brain Works | HowStuffWorks
+ Summary: How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.youtube.com/user/ImmJustBrian
+ Title: BriN - YouTube
+ Summary: BriN Videos; Playlists; Channels; Discussion; About; Home Trending History Best of YouTube Music Sports Gaming Movies ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.mylifetime.com/shows/bring-it
+ Title: Bring It! Full Episodes, Video & More | Lifetime
+ Summary: Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: https://www.brainpop.com/
+ Title: BrainPOP
+ Summary: BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Brain
+ Title: Brain - Wikipedia, the free encyclopedia
+ Summary: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. Only a few invertebrates such as sponges ...
+]
+
+
+Result 10
+Relevant: NO
+[
+ URL: http://www.webmd.com/brain/picture-of-the-brain
+ Title: Brain (Human Anatomy): Picture, Function, Parts ...
+ Summary: WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+]
+
+PRECISION 0.1
+=====================================
+ROUND 2
+QUERY brin moscow 
+
+Result 1
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Brin was born in Moscow in the Soviet Union, to Russian Jewish parents, ... Sergey Brin at Wikipedia's sister projects. Media from Commons: Quotations from Wikiquote:
+]
+
+
+Result 2
+Relevant: YES
+[
+ URL: http://www.biography.com/people/sergey-brin-12103333#!
+ Title: Sergey Brin - Biography.com
+ Summary: Sergey Brin is the man who created the world's most popular search engine, Google, with Larry Page in 1998. Learn more about his life and career at Biography.com.
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Brin-Navolok
+ Title: Brin-Navolok - Wikipedia, the free encyclopedia
+ Summary: Brin-Navolok also is the Union of all 26 settlements. Given this fact, ... 105.7 FM The Echo of Moscow Radio station "Echo of Moscow" 106,0 FM Radio Mayak;
+]
+
+
+Result 4
+Relevant: YES
+[
+ URL: http://www.momentmag.com/the-story-of-sergey-brin/
+ Title: The Story of Sergey Brin - Moment Magazine
+ Summary: The Story of Sergey Brin ... Blazing one’s own trail comes naturally to Sergey. The Moscow-born entrepreneur and his parents have been doing it their entire lives.
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: https://hias.org/board/eugenia-brin
+ Title: hias.org
+ Summary: hias.org
+]
+
+
+Result 6
+Relevant: YES
+[
+ URL: http://www.forbes.com/profile/sergey-brin/
+ Title: Sergey Brin - Forbes
+ Summary: Sergey Brin runs Alphabet's secretive X division, ... Brin emigrated to the U.S. from Moscow when he was six. He founded Google with Larry Page in 1998, ...
+]
+
+
+Result 7
+Relevant: YES
+[
+ URL: https://plus.google.com/+SergeyBrin
+ Title: Sergey Brin - Google+
+ Summary: Sergey Brin - Google - Mountain View, CA - palo alto, ca - college park, md - moscow, ussr - Stanford University
+]
+
+
+Result 8
+Relevant: YES
+[
+ URL: http://www.youtube.com/watch?v=zle8y4R42U4
+ Title: an interview with google's founder sergey brin, in russian ...
+ Summary: Want to watch this again later? Sign in to add this video to a playlist. sergey brin in moscow yesterday, being interviewed by a russian tv reporter. the ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://blogs.wsj.com/digits/2010/06/21/russias-medvedev-to-see-google-but-not-co-founder-brin/
+ Title: Russia’s Medvedev to See Google but Not Co-Founder Brin ...
+ Summary: Russia’s Medvedev to See Google but Not Co-Founder Brin. By. ... innovation powerhouse he hopes to imitate in the quest to wean Moscow off its oil ...
+]
+
+
+Result 10
+Relevant: YES
+[
+ URL: http://research.google.com/pubs/SergeyBrin.html
+ Title: Sergey Brin - Research at Google
+ Summary: Sergey Brin, a native of Moscow, received a bachelor of science degree with honors in mathematics and computer science from the University of Maryland at ...
+]
+
+PRECISION 0.7
+=====================================
+ROUND 1
+QUERY brin
+
+Result 1
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Sergey Mikhaylovich Brin (Russian: Серге́й Миха́йлович Брин; born August 21, 1973) is a Russian-born American computer scientist, internet ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://www.thefreedictionary.com/Brin
+ Title: Brin - definition of brin by The Free Dictionary
+ Summary: brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://brin.ai/
+ Title: BRiN - Your Personal Business Advisor
+ Summary: Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://bringlass.com/
+ Title: Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+ Summary: Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+ Title: How Your Brain Works | HowStuffWorks
+ Summary: How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.youtube.com/user/ImmJustBrian
+ Title: BriN - YouTube
+ Summary: BriN Videos; Playlists; Channels; Discussion; About; Home Trending History Best of YouTube Music Sports Gaming Movies ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.mylifetime.com/shows/bring-it
+ Title: Bring It! Full Episodes, Video & More | Lifetime
+ Summary: Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: https://www.brainpop.com/
+ Title: BrainPOP
+ Summary: BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Brain
+ Title: Brain - Wikipedia, the free encyclopedia
+ Summary: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. Only a few invertebrates such as sponges ...
+]
+
+
+Result 10
+Relevant: NO
+[
+ URL: http://www.webmd.com/brain/picture-of-the-brain
+ Title: Brain (Human Anatomy): Picture, Function, Parts ...
+ Summary: WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+]
+
+PRECISION 0.1
+=====================================
+ROUND 1
+QUERY brin
+
+Result 1
+Relevant: NO
+[
+ URL: http://www.thefreedictionary.com/Brin
+ Title: Brin - definition of brin by The Free Dictionary
+ Summary: brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+]
+
+
+Result 2
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Sergey Mikhaylovich Brin (Russian: Серге́й Миха́йлович Брин; born August 21, 1973) is a Russian-born American computer scientist, internet ...
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://brin.ai/
+ Title: BRiN - Your Personal Business Advisor
+ Summary: Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.davidbrin.com/
+ Title: worlds of DAVID BRIN
+ Summary: official website of best-selling science fiction writer and futurist DAVID BRIN
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+ Title: How Your Brain Works | HowStuffWorks
+ Summary: How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://bringlass.com/
+ Title: Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+ Summary: Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.mylifetime.com/shows/bring-it
+ Title: Bring It! Full Episodes, Video & More | Lifetime
+ Summary: Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: http://www.youtube.com/user/ImmJustBrian
+ Title: BriN - YouTube
+ Summary: BriN Videos; Playlists; Channels; Discussion; About; Home Trending History Best of YouTube Music Sports Gaming Movies ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: https://www.brainpop.com/
+ Title: BrainPOP
+ Summary: BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+]
+
+
+Result 10
+Relevant: NO
+[
+ URL: http://www.webmd.com/brain/picture-of-the-brain
+ Title: Brain (Human Anatomy): Picture, Function, Parts ...
+ Summary: WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+]
+
+PRECISION 0.1
+=====================================
+ROUND 2
+QUERY brin russian 
+
+Result 1
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Sergei_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Sergey Mikhaylovich Brin (Russian: Серге́й Миха́йлович Брин; born August 21, 1973) is a Russian-born American computer scientist, internet ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Brin-Navolok
+ Title: Brin-Navolok - Wikipedia, the free encyclopedia
+ Summary: In Brin-Navolok have all the major Russian operators of cellular connection. There are also companies providing services to home television and broadband access to ...
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: https://www.quora.com/Does-Sergey-Brin-speak-Russian
+ Title: Does Sergey Brin speak Russian? - quora.com
+ Summary: Does Sergey Brin speak Russian? Update Cancel. Answer Wiki. 1 Answer. Doug Edwards, Google Director of Marketing and Brand Management from 1999-2005. 29.5k Views ...
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.youtube.com/watch?v=zle8y4R42U4
+ Title: an interview with google's founder sergey brin, in russian ...
+ Summary: Want to watch this again later? Sign in to add this video to a playlist. sergey brin in moscow yesterday, being interviewed by a russian tv reporter. the ...
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://russiapedia.rt.com/prominent-russians/business/sergey-brin/
+ Title: Sergey Brin – Russiapedia Business Prominent Russians
+ Summary: Sergey Brin attended grade school in Adelphi, ... Leonid Melamed Leonid Melamed is a Russian businessman, scientist and top executive of large companies.
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.wealthx.com/articles/2015/sergey-mikhaylovich-brin/
+ Title: Sergey Mikhaylovich BRIN | Wealth-X
+ Summary: Russian native and information technology professional; ... Brin met Lawrence Page and the two undertook joint research on Large-Scale Hypertextual Web Search Engines.
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://blogs.wsj.com/digits/2010/06/21/russias-medvedev-to-see-google-but-not-co-founder-brin/
+ Title: Russia’s Medvedev to See Google but Not Co-Founder Brin ...
+ Summary: Russian President Dmitry Medvedev will visit Silicon Valley this week. But one executive Mr. Medvedev won't be meeting is Google co-founder Sergey Brin ...
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: https://www.quora.com/What-do-Russians-think-of-Sergey-Brin-the-cofounder-of-Google-who-was-originally-from-Soviet-Union
+ Title: What do Russians think of Sergey Brin, the cofounder of ...
+ Summary: What do Russians think of Sergey Brin, the cofounder of Google, who was originally from Soviet Union? Update Cancel. Answer Wiki. ... Does Sergey Brin speak Russian?
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: http://www.forbes.com/profile/sergey-brin/
+ Title: Sergey Brin - Forbes
+ Summary: Sergey Brin runs Alphabet's secretive X division, a key player in the race towards autonomous vehicles and the builder of self-driving cars. X (formerly called ...
+]
+
+
+Result 10
+Relevant: NO
+[
+ URL: http://www.momentmag.com/the-story-of-sergey-brin/
+ Title: The Story of Sergey Brin - Moment Magazine
+ Summary: The Story of Sergey Brin - It takes a bit of searching to find Sergey Brin’s office at the Googleplex. Tucked away in a corner of Building #43 on this sprawling ...
+]
+
+PRECISION 0.0
+=====================================
+ROUND 1
+QUERY brin
+
+Result 1
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Sergey Mikhaylovich Brin (Russian: Серге́й Миха́йлович Брин; born August 21, 1973) is a Russian-born American computer scientist, internet ...
+]
+
+
+Result 2
+Relevant: NO
+[
+ URL: http://www.thefreedictionary.com/Brin
+ Title: Brin - definition of brin by The Free Dictionary
+ Summary: brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://brin.ai/
+ Title: BRiN - Your Personal Business Advisor
+ Summary: Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://bringlass.com/
+ Title: Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+ Summary: Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+ Title: How Your Brain Works | HowStuffWorks
+ Summary: How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://www.youtube.com/user/ImmJustBrian
+ Title: BriN - YouTube
+ Summary: BriN Videos; Playlists; Channels; Discussion; About; Home Trending History Best of YouTube Music Sports Gaming Movies ...
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.mylifetime.com/shows/bring-it
+ Title: Bring It! Full Episodes, Video & More | Lifetime
+ Summary: Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: https://www.brainpop.com/
+ Title: BrainPOP
+ Summary: BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: https://en.wikipedia.org/wiki/Brain
+ Title: Brain - Wikipedia, the free encyclopedia
+ Summary: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. Only a few invertebrates such as sponges ...
+]
+
+
+Result 10
+Relevant: NO
+[
+ URL: http://www.webmd.com/brain/picture-of-the-brain
+ Title: Brain (Human Anatomy): Picture, Function, Parts ...
+ Summary: WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+]
+
+PRECISION 0.1
+=====================================
+ROUND 1
+QUERY brin
+
+Result 1
+Relevant: NO
+[
+ URL: http://www.thefreedictionary.com/Brin
+ Title: Brin - definition of brin by The Free Dictionary
+ Summary: brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+]
+
+
+Result 2
+Relevant: YES
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia, the free encyclopedia
+ Summary: Early life and education. Brin was born in Moscow in the Soviet Union, to Russian Jewish parents, Yevgenia and Mikhail Brin, both graduates of Moscow State ...
+]
+
+
+Result 3
+Relevant: NO
+[
+ URL: http://brin.ai/
+ Title: BRiN - Your Personal Business Advisor
+ Summary: Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+]
+
+
+Result 4
+Relevant: NO
+[
+ URL: http://www.davidbrin.com/
+ Title: worlds of DAVID BRIN
+ Summary: official website of best-selling science fiction writer and futurist DAVID BRIN
+]
+
+
+Result 5
+Relevant: NO
+[
+ URL: http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+ Title: How Your Brain Works | HowStuffWorks
+ Summary: How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+]
+
+
+Result 6
+Relevant: NO
+[
+ URL: http://bringlass.com/
+ Title: Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+ Summary: Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+]
+
+
+Result 7
+Relevant: NO
+[
+ URL: http://www.mylifetime.com/shows/bring-it
+ Title: Bring It! Full Episodes, Video & More | Lifetime
+ Summary: Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+]
+
+
+Result 8
+Relevant: NO
+[
+ URL: http://www.youtube.com/user/ImmJustBrian
+ Title: BriN - YouTube
+ Summary: BriN Videos; Playlists; Channels; Discussion; About; Home Trending History Best of YouTube Music Sports Gaming Movies ...
+]
+
+
+Result 9
+Relevant: NO
+[
+ URL: https://www.brainpop.com/
+ Title: BrainPOP
+ Summary: BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+]
+
+
+Result 10
+Relevant: NO
+[
+ URL: http://www.webmd.com/brain/picture-of-the-brain
+ Title: Brain (Human Anatomy): Picture, Function, Parts ...
+ Summary: WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+]
+
+PRECISION 0.1

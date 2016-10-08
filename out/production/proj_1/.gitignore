@@ -1,0 +1,8 @@
+/adb/*.class
+.project
+.classpath
+.idea
+/out/*
+*.iml
+transcript.txt
+/adb/TestGui.java
