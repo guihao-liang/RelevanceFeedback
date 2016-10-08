@@ -6,8 +6,6 @@ import java.util.HashMap;
  * Class Term: Contains the term frequencies of all terms in one single document.
  * Package: adb
  * Advanced Database Systems Project 1
- * Group 3
- * Ziyi Luo (zl2471) & Guihao Liang (gl2520)
  */
 public class Term {
     private boolean isRelevant;
