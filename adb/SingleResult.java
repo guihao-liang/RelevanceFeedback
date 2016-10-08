@@ -5,8 +5,6 @@ package adb;
  * Also contains the relevance feedback from the user.
  * Package: adb
  * Advanced Database Systems Project 1
- * Group 3
- * Ziyi Luo (zl2471) & Guihao Liang (gl2520)
  */
 public class SingleResult {
 	private String url;
